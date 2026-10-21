@@ -1,0 +1,6 @@
+stream_train/
+chaud_glace/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+clientes_chaud_glace.csv

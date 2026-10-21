@@ -1,0 +1,52 @@
+[theme]
+font = "Manrope:https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&display=swap"
+baseFontSize = 15
+baseRadius = "12px"
+buttonRadius = "10px"
+showWidgetBorder = true
+showSidebarBorder = false
+metricValueFontSize = "2rem"
+metricValueFontWeight = 700
+paddingTop = "1rem"
+paddingBottom = "2.5rem"
+
+[theme.light]
+primaryColor = "#C43D5B"
+backgroundColor = "#FAF6F1"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#2D211C"
+linkColor = "#B73755"
+borderColor = "#E5D6C8"
+dataframeHeaderBackgroundColor = "#F3E9DE"
+dataframeHeaderTextColor = "#2D211C"
+dataframeBorderColor = "#E5D6C8"
+chartCategoricalColors = ["#C43D5B", "#D9884B", "#3E8E68", "#8C6A5D", "#B58B5A", "#7A6FA8"]
+
+[theme.dark]
+primaryColor = "#D95A73"
+backgroundColor = "#141110"
+secondaryBackgroundColor = "#1F1917"
+textColor = "#F5EDE6"
+linkColor = "#F08CA0"
+borderColor = "#3A2D28"
+dataframeHeaderBackgroundColor = "#2A211D"
+dataframeHeaderTextColor = "#F5EDE6"
+dataframeBorderColor = "#3A2D28"
+chartCategoricalColors = ["#F08CA0", "#F2B36A", "#6FC79A", "#C9A28E", "#D9B36A", "#A99BE0"]
+
+[theme.light.sidebar]
+backgroundColor = "#2B1D1A"
+secondaryBackgroundColor = "#3A2823"
+textColor = "#FBF3EC"
+borderColor = "#4A342D"
+primaryColor = "#E86F87"
+linkColor = "#F5B7C4"
+
+[theme.dark.sidebar]
+backgroundColor = "#0F0D0C"
+secondaryBackgroundColor = "#1C1614"
+textColor = "#F5EDE6"
+borderColor = "#30241F"
+primaryColor = "#D95A73"
+linkColor = "#F08CA0"
