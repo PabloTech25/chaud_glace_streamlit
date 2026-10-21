@@ -106,12 +106,16 @@ source chaud_glace/Scripts/activate
 ```
 Windows (Command Prompt / CMD):
 
-DOS
+```
 chaud_glace\Scripts\activate.bat
+
+```
 Windows (PowerShell):
 
-PowerShell
+```
 .\chaud_glace\Scripts\Activate.ps1
+
+```
 
 macOS / Linux:
 
