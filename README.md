@@ -8,7 +8,7 @@ Este sistema responde a la pregunta de negocio: **¿Qué clientes tienen mayor p
 
 El proyecto está construido bajo un enfoque modular de ciencia de datos y desarrollo full stack para facilitar el mantenimiento y la escalabilidad:
 
-
+```
 chaud_glace_streamlit/
 │
 ├── .streamlit/
@@ -29,6 +29,7 @@ chaud_glace_streamlit/
 ├── generar_datos_heladeria.py  # Script generador del dataset de clientes
 ├── requirements.txt            # Dependencias del proyecto
 └── README.md                   # Documentación del proyecto
+```
 
 ## 🎨 Configuración de Estilo y Tema (.streamlit/config.toml)
 La carpeta .streamlit almacena el archivo config.toml, el cual define la tipografía customizada (Google Fonts Manrope y Fraunces), los bordes, espaciados y las paletas cromáticas personalizadas para el modo claro ([theme.light]) y modo oscuro ([theme.dark]), alineadas a la identidad de marca de Chaud & Glace:
@@ -75,7 +76,7 @@ Sigue estos pasos en tu terminal para configurar el entorno de ejecución desde 
 
 
 ```
-git clone <URL_DE_TU_REPOSITORIO>
+git clone https://github.com/PabloTech25/chaud_glace_streamlit.git
 cd chaud_glace_streamlit
 
 ```
